@@ -1,2 +1,5 @@
 this is a Sample text
  changes are made
+editing this file after adding the file to the remote online repository.
+after editing we have to stage the file,commit it and then push the file to the online repository.
+The command sequences are:
